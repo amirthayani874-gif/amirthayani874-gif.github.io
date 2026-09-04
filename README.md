@@ -25,4 +25,5 @@ https://amirthayani874-gif.github.io/
 ## Author
 
 Sathya Varshaa S. T
+
 Artificial Intelligence and Data Science
